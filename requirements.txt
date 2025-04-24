@@ -1,0 +1,14 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+faiss-cpu
+langchain_google_genai
+google-cloud
+requests
+numpy
+# sentence-transformers
+# uvicorn
+# ctransformers
+# python-box
